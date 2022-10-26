@@ -1,4 +1,4 @@
-# GitModel
+# gitmodel
 
 The powerful package for supporting algorithms in mathematical modeling.
 
