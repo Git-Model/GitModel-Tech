@@ -45,7 +45,7 @@
 <h2 align='left'><b>项目结构（初版）</b></h2>
 
 ```textile
-|- optimtool
+|- GitModel
     |-- programming
         |-- __init__.py
         |-- linear.py
